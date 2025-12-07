@@ -43,4 +43,4 @@ Você pode visualizar o design completo do aplicativo no Figma:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/CarolynaCosta/Clap.git
+   git clone https://(https://github.com/sarazoli/Clap)
